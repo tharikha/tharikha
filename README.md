@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tharikha 👋
 
-<!--
-**tharikha/tharikha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Graduate  
+💻 Interested in Full Stack Development  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- E-commerce Web Application
+- Recipe Generator System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java, Python
+- React, Node.js
+- MongoDB
+
+## 📫 Contact
+- Email: tharikha74@gmail.com
